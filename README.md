@@ -1,2 +1,2 @@
-# clinical-predictors_ckd
+# clinical_predictors_ckd
 Statistical analysis of clinical predictors of chronic kidney disease using R
